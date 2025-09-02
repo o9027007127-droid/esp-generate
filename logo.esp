@@ -1,0 +1,25 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 0 0 1000 1000
+/newpath
+500 500 480 0 360 arc
+stroke
+newpath
+500 500 450 0 360 arc
+0 0 0 setrgbcolor
+0.27 0.65 0.65 setrgbcolor
+fill
+stroke
+
+/Times-Roman findfont 90 scalefont setfont
+500 170 moveto
+(786) dup stringwidth pop -2 div 0 rmoveto
+0.83 0.68 0.22 setrgbcolor
+show
+
+/Times-Bold findfont 140 scalefont setfont
+500 850 moveto
+(ZAVISH) dup stringwidth pop -2 div 0 rmoveto
+0.83 0.68 0.22 setrgbcolor
+show
+
+showpage
